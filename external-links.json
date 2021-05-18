@@ -3,5 +3,9 @@
 	{
 		"label": "공식 DOOR 홈페이지",
 		"url": "http://door.deu.ac.kr"
+	},
+	{
+		"label": "v0.3.6",
+		"url": "http://v0.3.6.door.p-e.kr"
 	}
 ]
